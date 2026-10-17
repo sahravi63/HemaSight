@@ -1,0 +1,11 @@
+models/
+data/
+__pycache__/
+*.pyc
+*.zip
+*.pem
+models_seeds/
+*.joblib
+*.pth
+log_*.txt
+app.log
